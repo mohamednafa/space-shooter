@@ -1,0 +1,16 @@
+{
+  "name": "space-shooter",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Space Shooter - Capacitor Android app",
+  "scripts": {
+    "build": "echo 'static site — no build step needed'"
+  },
+  "dependencies": {
+    "@capacitor/android": "^6.1.2",
+    "@capacitor/core": "^6.1.2"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^6.1.2"
+  }
+}

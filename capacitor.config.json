@@ -1,0 +1,6 @@
+{
+  "appId": "com.shoto.spaceshooter",
+  "appName": "SpaceShooter",
+  "webDir": "www",
+  "bundledWebRuntime": false
+}
