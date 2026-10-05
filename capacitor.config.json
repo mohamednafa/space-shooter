@@ -2,5 +2,12 @@
   "appId": "com.shoto.spaceshooter",
   "appName": "SpaceShooter",
   "webDir": "www",
-  "bundledWebRuntime": false
+  "bundledWebRuntime": false,
+  "server": {
+    "allowNavigation": [
+      "www.shoto.online",
+      "shoto.online"
+    ]
+  }
 }
+
